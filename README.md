@@ -27,11 +27,13 @@ O desafio consistia em reduzir esses custos de forma técnica, sem alterar a est
 Etapas do Projeto
 
 1. Extração e Limpeza (ETL)
+   
 Exportação e consolidação de dados do CRM e planilhas de montagem.
 
 Tratamento de Dados: Normalização de valores ausentes e anonimização de dados sensíveis (LGPD) para proteção de informações da empresa e clientes.
 
-3. Modelagem e Análise de Dados
+2. Modelagem e Análise de Dados
+   
 Análise Comparativa: Cruzamento de valores entre o projeto comercial e o projeto pós-conferência.
 
 Cálculos em DAX: Desenvolvimento de medidas para visualização de margens, custos médios e performance por equipe.
@@ -39,6 +41,7 @@ Cálculos em DAX: Desenvolvimento de medidas para visualização de margens, cus
 Identificação de Padrões: Detecção de erros técnicos recorrentes que geravam pedidos de assistência extras.
 
 3. Diagnóstico e Hipóteses
+
 Identificação de lacunas na comunicação entre projetistas e montadores.
 
 Falta de padronização nas etapas de projeto.
