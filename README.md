@@ -19,17 +19,19 @@ Excel: Consolidação, limpeza inicial e anonimização de dados brutos provenie
 Gestão Ágil: Implementação de metodologia Kanban para controle de fluxo.
 
 O Problema de Negócio
+
 O ciclo entre a venda e a montagem final apresentava inconsistências técnicas que geravam custos excedentes na fábrica. Além disso, a operação de montagem sofria com erros recorrentes, avarias de materiais e alto índice de retrabalho, comprometendo a lucratividade e o prazo de entrega ao cliente.
 
 O desafio consistia em reduzir esses custos de forma técnica, sem alterar a estética aprovada pelo cliente.
 
 Etapas do Projeto
+
 1. Extração e Limpeza (ETL)
 Exportação e consolidação de dados do CRM e planilhas de montagem.
 
 Tratamento de Dados: Normalização de valores ausentes e anonimização de dados sensíveis (LGPD) para proteção de informações da empresa e clientes.
 
-2. Modelagem e Análise de Dados
+3. Modelagem e Análise de Dados
 Análise Comparativa: Cruzamento de valores entre o projeto comercial e o projeto pós-conferência.
 
 Cálculos em DAX: Desenvolvimento de medidas para visualização de margens, custos médios e performance por equipe.
@@ -44,6 +46,7 @@ Falta de padronização nas etapas de projeto.
 Margem de rentabilidade abaixo do potencial devido a pequenos desperdícios acumulados.
 
 4. Implementação da Solução
+
 Dashboard de KPIs: Painel em Power BI para monitoramento em tempo real de custos e prazos.
 
 Redesenho de Processos: Implementação de fluxo de trabalho baseado em Kanban.
@@ -59,5 +62,7 @@ Visualizações
 
 
 Contato
+
 Fenelon Felix Gonçalves da Silva 
+
 fenelon266@gmail.com
