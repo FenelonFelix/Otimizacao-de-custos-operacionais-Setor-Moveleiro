@@ -1,7 +1,9 @@
 Otimização de Custos e Eficiência Operacional (Setor Moveleiro)
+
 Este projeto apresenta uma análise de dados ponta a ponta focada na identificação de gargalos financeiros e operacionais no ciclo de vendas e montagem de móveis planejados.
 
 Resultados Principais
+
 Redução de 20% nos custos de pedidos: Economia gerada através da reestruturação técnica de componentes na etapa de conferência.
 
 Eficiência na Montagem: Otimização do fluxo de trabalho das equipes via implementação de comunicação direta e redução de retrabalho.
@@ -9,6 +11,7 @@ Eficiência na Montagem: Otimização do fluxo de trabalho das equipes via imple
 Aumento de Rentabilidade: Elevação da margem operacional através do controle rigoroso de KPIs.
 
 Tecnologias Utilizadas
+
 Power BI: Modelagem de dados, tratamento via Power Query e desenvolvimento de métricas avançadas em DAX.
 
 Excel: Consolidação, limpeza inicial e anonimização de dados brutos provenientes do CRM.
